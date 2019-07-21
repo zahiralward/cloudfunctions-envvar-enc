@@ -1,0 +1,22 @@
+{
+  "name": "demoencvar",
+  "version": "1.0.0",
+  "description": "This is a step by step guide to setup Google Cloud KMS and invoke environment variable into Google Cloud Functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahiralward/kmsexamples.git"
+  },
+  "author": "demoencvar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zahiralward/kmsexamples/issues"
+  },
+  "homepage": "https://github.com/zahiralward/kmsexamples#readme",
+  "dependencies": {
+    "@google-cloud/kms": "^1.3.0"
+  }
+}
