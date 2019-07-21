@@ -2,7 +2,7 @@
 
 This is a step by step guide to setup Google Cloud KMS that invokes environment variables into Google Cloud Functions.
 
-## Create a keyring and a key in KMS
+## Create a keyring and a key in KMS.
 
 You can login to Google Cloud console and create the project and from the cloud shell run the following code
 
